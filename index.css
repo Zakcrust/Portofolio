@@ -75,6 +75,6 @@ img .round-img {
 body {
   width: 100vw;
   height: 100vh;
-  margin: 0;
+  margin: 0 auto;
   background: black;
 }
